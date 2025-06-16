@@ -2,24 +2,25 @@
   "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
   "version": "0.1.0",
   "aboutMe": {
-    "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
     "name": "tobi1",
     "preferredPrefix": [
-      "425", "0425"
-    ]
+      "425",
+      "0425"
+    ],
+    "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9"
   },
   "extensions": [
     {
       "name": "Oppo Reno11A",
       "extension": "200",
-      "type": "smartphone",
-      "identifier": "0VT3FL1K"
+      "identifier": "0VT3FL1K",
+      "type": "smartphone"
     },
     {
       "name": "Test Call（栗田まろん）",
       "extension": "1234",
-      "type": "reserved",
-      "identifier": "T4MCK1E4"
+      "identifier": "T4MCK1E4",
+      "type": "reserved"
     }
   ],
   "providers": [
@@ -28,6 +29,12 @@
       "prefix": "390",
       "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
       "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
+    },
+    {
+      "name": "kusaremkn",
+      "prefix": "510",
+      "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
     }
   ]
 }
