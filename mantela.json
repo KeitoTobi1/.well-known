@@ -35,6 +35,18 @@
       "prefix": "510",
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
       "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+    },
+    {
+      "name": "sirin",
+      "prefix": "444",
+      "identifier": "906286ae-3639-453f-b500-44a910445968",
+      "mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
+    },
+    {
+      "name": "junk",
+      "prefix": "0425",
+      "identifier": "008902ee-6102-48b9-8e70-49d27058ad7e",
+      "mantela": "https://junks.dev/.well-known/mantela.json"
     }
   ]
 }
