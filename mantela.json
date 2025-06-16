@@ -1,0 +1,42 @@
+{
+  "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+  "version": "0.1.0",
+  "aboutMe": {
+    "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
+    "name": "tobi1",
+    "preferredPrefix": [
+      "425"
+    ],
+    "sipUsername": "SIP-TRUNK-14B53050",
+    "sipPassword": "M0kxdkRTUkduVGM9",
+    "geolocationCoordinates": {
+      "latitude": 0,
+      "longitude": 0,
+      "altitude": 0,
+      "accuracy": 0,
+      "altitudeAccuracy": 0
+    }
+  },
+  "extensions": [
+    {
+      "name": "Oppo Reno11A",
+      "extension": "200",
+      "type": "smartphone",
+      "identifier": "0VT3FL1K"
+    },
+    {
+      "name": "Test Call（栗田まろん）",
+      "extension": "1234",
+      "type": "reserved",
+      "identifier": "T4MCK1E4"
+    }
+  ],
+  "providers": [
+    {
+      "name": "yude",
+      "prefix": "390",
+      "identifier": "",
+      "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
+    }
+  ]
+}
