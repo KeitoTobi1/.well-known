@@ -49,10 +49,16 @@
       "mantela": "https://junks.dev/.well-known/mantela.json"
     },
     {
-		"identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
-		"name": "noritel",
-		"prefix": "989",
-		"mantela": "https://ajinori256.com/.well-known/mantela.json"
-	}
+		  "identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
+		  "name": "noritel",
+		  "prefix": "989",
+		  "mantela": "https://ajinori256.com/.well-known/mantela.json"
+	  },
+    {
+      "identifier": "9e40b39a-2964-4868-af71-ebe8e71615eb",
+      "name": "YuriConoha",
+      "prefix": "975",
+      "mantela": "https://yuriko.co.nz/.well-known/mantela.json"
+    }
   ]
 }
