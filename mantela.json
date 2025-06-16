@@ -47,6 +47,12 @@
       "prefix": "0425",
       "identifier": "008902ee-6102-48b9-8e70-49d27058ad7e",
       "mantela": "https://junks.dev/.well-known/mantela.json"
-    }
+    },
+    {
+		"identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
+		"name": "noritel",
+		"prefix": "989",
+		"mantela": "https://ajinori256.com/.well-known/mantela.json"
+	}
   ]
 }
