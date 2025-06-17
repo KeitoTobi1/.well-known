@@ -9,6 +9,7 @@
     ],
     "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9"
   },
+  "webservice": [],
   "extensions": [
     {
       "name": "Oppo Reno11A",
@@ -71,6 +72,18 @@
       "prefix": "961",
       "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
       "mantela": "https://www.kur0den.net/.well-known/mantela.json"
+    },
+    {
+      "name": "kimkim0106",
+      "prefix": "106",
+      "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
+      "mantela": "https://kimkim0106.net/.well-known/mantela.json"
+    },
+    {
+      "name": "scrwnl",
+      "prefix": "782",
+      "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
+      "mantela": "https://scrwnl.eu.org/.well-known/mantela.json"
     }
   ]
 }
