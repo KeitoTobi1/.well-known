@@ -28,6 +28,12 @@
       "extension": "1000",
       "identifier": "HW3MVZAT",
       "type": "information"
+    },
+    {
+      "name": "FAX",
+      "extension": "6000",
+      "type": "fax",
+      "identifier": "JX3ZY655"
     }
   ],
   "providers": [
