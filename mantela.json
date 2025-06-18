@@ -109,6 +109,12 @@
       "prefix": "224",
       "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
       "mantela": "https://sousuke0422.github.io/.well-known/mantela.json"
+    },
+    {
+      "name": "AmagasakiSHINANO",
+      "prefix": "661",
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json"
     }
   ]
 }
