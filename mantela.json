@@ -9,7 +9,14 @@
     ],
     "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9"
   },
-  "webservice": [],
+  "webservice": [
+    {
+      "name": "debug_shell",
+      "port": 22,
+      "protocol": "ssh",
+      "identifier": "216a7928-6fc1-2124-5907-d3985166fda7"
+    }
+  ],
   "extensions": [
     {
       "name": "Oppo Reno11A",
@@ -34,6 +41,12 @@
       "extension": "6000",
       "type": "fax",
       "identifier": "JX3ZY655"
+    },
+    {
+      "name": "Linphone",
+      "extension": "250",
+      "type": "other",
+      "identifier": "8WLIUM6I"
     }
   ],
   "providers": [
