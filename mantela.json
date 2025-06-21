@@ -9,7 +9,7 @@
     ],
     "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9"
   },
-  "webservice": [
+  "service": [
     {
       "name": "debug_shell",
       "port": 22,
@@ -35,12 +35,6 @@
       "extension": "1000",
       "identifier": "HW3MVZAT",
       "type": "information"
-    },
-    {
-      "name": "FAX",
-      "extension": "6000",
-      "type": "fax",
-      "identifier": "JX3ZY655"
     },
     {
       "name": "Linphone",
