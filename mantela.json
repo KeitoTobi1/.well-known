@@ -1,126 +1,53 @@
 {
-  "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
-  "version": "0.1.0",
+  "$schema": "https://tkytel.github.io/mantela/0.1.x/mantela.schema.json",
   "aboutMe": {
-    "name": "tobi1",
+    "identifier": "7e47d3b4-2ae7-4441-a202-8496a6f8fcf0",
+    "name": "TOHKA-TEL",
     "preferredPrefix": [
       "425",
       "0425"
     ],
-    "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9"
+    "unavailable": false,
+    "sipUri": [
+      "sip:SIP-TRUNK-33ADF804:MVZwMmdxaWR5Z2c9@100.102.107.30"
+    ]
   },
-  "service": [
-    {
-      "name": "ssh_protocol",
-      "port": 22,
-      "protocol": ["ssh", "sftp"],
-      "identifier": "216a7928-6fc1-2124-5907-d3985166fda7"
-    },
-    {
-      "name": "nginx",
-      "port": 80,
-      "protocol": ["http"],
-      "identifier": "734499e7-a943-408d-aa6c-11f73f1c8239"
-    }
-  ],
   "extensions": [
     {
-      "name": "Oppo Reno11A",
       "extension": "200",
-      "identifier": "0VT3FL1K",
+      "identifier": "1EQ3WFCF",
+      "model": "OPPO A401OP",
+      "name": "OPPO Reno 11",
       "type": "smartphone"
     },
     {
-      "name": "Test Call（栗田まろん）",
-      "extension": "1234",
-      "identifier": "T4MCK1E4",
-      "type": "information"
+      "extension": "777",
+      "identifier": "8332Y8RX",
+      "model": "OPPO A201OP",
+      "name": "OPPO Reno 7",
+      "type": "smartphone"
     },
     {
-      "name": "1000khz test",
-      "extension": "1000",
-      "identifier": "HW3MVZAT",
+      "extension": "9992600",
+      "identifier": "",
+      "model": "",
+      "name": "TETRIS",
       "type": "information"
-    },
-    {
-      "name": "Linphone",
-      "extension": "250",
-      "type": "other",
-      "identifier": "8WLIUM6I"
-    },
-        {
-      "name": "カリンカ",
-      "extension": "2600",
-      "identifier": "F7PWPM79",
-      "type": "other"
     }
   ],
   "providers": [
     {
-      "name": "yude",
-      "prefix": "390",
-      "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
-      "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
-    },
-    {
-      "name": "kusaremkn",
-      "prefix": "510",
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
-      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
+      "name": "MikaNeTEL",
+      "prefix": "510"
     },
     {
-      "name": "sirin",
-      "prefix": "444",
-      "identifier": "906286ae-3639-453f-b500-44a910445968",
-      "mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
-    },
-    {
-      "name": "junk",
-      "prefix": "0425",
-      "identifier": "008902ee-6102-48b9-8e70-49d27058ad7e",
-      "mantela": "https://junks.dev/.well-known/mantela.json"
-    },
-    {
-      "name": "noritel",
-      "prefix": "989",
-      "identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
-      "mantela": "https://ajinori256.com/.well-known/mantela.json"
-    },
-    {
-      "name": "YuriConoha",
-      "prefix": "975",
-      "identifier": "9e40b39a-2964-4868-af71-ebe8e71615eb",
-      "mantela": "https://yuriko.co.nz/.well-known/mantela.json"
-    },
-    {
-      "name": "kur0den",
-      "prefix": "961",
-      "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
-      "mantela": "https://www.kur0den.net/.well-known/mantela.json"
-    },
-    {
-      "name": "kimkim0106",
-      "prefix": "106",
-      "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
-      "mantela": "https://kimkim0106.net/.well-known/mantela.json"
-    },
-    {
-      "name": "scrwnl",
-      "prefix": "782",
-      "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
-      "mantela": "https://scrwnl.eu.org/.well-known/mantela.json"
-    },
-    {
-      "name": "rei_k Public",
-      "prefix": "224",
-      "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
-      "mantela": "https://sousuke0422.github.io/.well-known/mantela.json"
-    },
-    {
-      "name": "AmagasakiSHINANO",
-      "prefix": "661",
-      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
-      "mantela": "https://da-tenshi.github.io/mantela.json"
+      "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
+      "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json",
+      "name": "yudetel",
+      "prefix": "390"
     }
-  ]
+  ],
+  "version": "0.1.x"
 }
