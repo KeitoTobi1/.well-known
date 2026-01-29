@@ -1,24 +1,24 @@
 {
   "$schema": "https://tkytel.github.io/mantela/0.1.x/mantela.schema.json",
   "aboutMe": {
-    "identifier": "7e47d3b4-2ae7-4441-a202-8496a6f8fcf0",
-    "name": "TOHKA-TEL",
+    "identifier": "7db54f53-8007-409b-a4bf-0627c98c1b2b",
+    "name": "TOHKA-TEL-2",
     "preferredPrefix": [
       "425",
       "0425"
     ],
-    "unavailable": false,
     "sipUri": [
-      "sip:SIP-TRUNK-33ADF804:MVZwMmdxaWR5Z2c9@100.102.107.30"
-    ]
+      "sip:SIP-TRUNK-8DBABF7F:UmFQcDZVQ3RtRms9@100.102.107.30"
+    ],
+    "unavailable": false
   },
   "extensions": [
     {
       "extension": "200",
-      "identifier": "1EQ3WFCF",
-      "model": "OPPO A401OP",
-      "name": "OPPO Reno 11",
-      "type": "smartphone"
+      "identifier": "H0NWWFDL",
+      "model": "GALLERIA-2nd",
+      "name": "GALLERIA-2nd",
+      "type": "other"
     },
     {
       "extension": "777",
@@ -28,10 +28,10 @@
       "type": "smartphone"
     },
     {
-      "extension": "9992600",
+      "extension": "1234",
       "identifier": "",
       "model": "",
-      "name": "TETRIS",
+      "name": "TEST",
       "type": "information"
     }
   ],
@@ -47,6 +47,24 @@
       "mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json",
       "name": "yudetel",
       "prefix": "390"
+    },
+    {
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json",
+      "name": "SHINANOTEL",
+      "prefix": "661"
+    },
+    {
+      "identifier": "498a3211-0f85-42a7-b2c0-44fb7095bd67",
+      "mantela": "https://zin3.cc/.well-known/mantela.json",
+      "name": "zin3",
+      "prefix": "333"
+    },
+    {
+      "identifier": "9ec68766-eca9-47fd-b4d8-d89d121d7c75",
+      "mantela": "https://da-tenshi.github.io/AMtel.json",
+      "name": "AM-TEL",
+      "prefix": "222"
     }
   ],
   "version": "0.1.x"
